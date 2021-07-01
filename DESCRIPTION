@@ -1,0 +1,11 @@
+Package: bagofprunes
+Type: Package
+Title: Booging and MARSquake
+Version: 0.1.0
+Author: Philippe Goulet Coulombe, based on widely used packages "earth" and "GBM"
+Maintainer: PGC <gouletc@sas.upenn.edu>
+Description: Implements Booging and MARSquake as proprosed in https://arxiv.org/abs/2008.07063
+License: GPL-3
+Encoding: UTF-8
+Imports: gbm, earth
+LazyData: true
